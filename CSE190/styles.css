@@ -5,7 +5,15 @@ body {
 
 .assignment
 {
-background: red; 
+display: flex; 
+padding: 10px;
+margin: 10px;
+background: lightgray ;
+}
+
+.assignment img {
+    width:200 px;
+    padding: 10px;
 }
 
 h1
