@@ -8,13 +8,17 @@ body {
 display: flex; 
 padding: 10px;
 margin: 10px;
+margin-bottom: 30px;
 background: #0029FA;
+border-radius: 5px;
+box-shadow: 5px 9 px #829FD9;
 }
 
 .assignment img {
     width:200 px;
     border: 2px solid #3E38F2;
     margin-right: 20 px;
+    border-radius: 5px;
 }
 
 h1
@@ -26,4 +30,8 @@ h1
 a {
     text-decoration: none;
     color: #3E38F2;
+ }
+ .assignment a:hover
+ {
+    color: #829FD9;
  }
