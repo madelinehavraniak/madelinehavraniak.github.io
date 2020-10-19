@@ -1,5 +1,5 @@
 body {
-    background: #230A59;
+    background: #D9C6B0;
     font-family: Arial, Helvetica, sans-serif;
 }
 
@@ -9,29 +9,29 @@ display: flex;
 padding: 10px;
 margin: 10px;
 margin-bottom: 30px;
-background: #0029FA;
+background: #BF8275;
 border-radius: 5px;
-box-shadow: 5px 9 px #829FD9;
+box-shadow: 5px 9 px #F2F2F2;
 }
 
 .assignment img {
-    width:150 px;
-    border: 2px solid #3E38F2;
+    width: 150 px;
+    border: 2px solid #BF8275;
     margin-right: 20 px;
     border-radius: 5px;
 }
 
 h1
 {
-    color: #829FD9;
+    color:#F2F2F2;
     text-align: center;
 }
 
 a {
     text-decoration: none;
-    color: #3E38F2;
+    color: #BF8275;
  }
  .assignment a:hover
  {
-    color: #829FD9;
+    color: #F2F2F2;
  }
