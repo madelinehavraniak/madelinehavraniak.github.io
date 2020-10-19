@@ -22,6 +22,13 @@ h1
     color: #829FD9;
     text-align: center;
 }
+.storyBoard1 img {
+    width:200 px;
+    width:200 px;
+    border: 2px solid #3E38F2;
+    margin-right: 20 px;
+    
+}
 
 a {
     text-decoration: none;
