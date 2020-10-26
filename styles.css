@@ -2,9 +2,7 @@ body {
     background: #F2E0C9;
     font-family: Arial, Helvetica, sans-serif;
 }
-assignments{
-display: flex;
-}
+
 .assignment
 {
 display: flex; 
