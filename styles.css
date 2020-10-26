@@ -9,12 +9,12 @@ flex-wrap: wrap;
 }
 .assignment
 {
-width: 21%;
+width: 36%;
 padding: 10px;
 margin: 10px;
 margin-bottom: 30px;
 background: #BF8339;
-border-radius: 5px;
+border-radius: 12px;
 box-shadow: 5px 9px #401201;
 }
 
